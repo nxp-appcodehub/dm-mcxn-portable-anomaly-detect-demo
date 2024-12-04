@@ -1,0 +1,13 @@
+Package:			dm-mcxn-portable-anomaly-detect
+Version:			1.0
+Outgoing License:	LA_OPT_Online Code Hosting NXP_Software_License - v1.2 October 2023
+License File:		LICENSE
+Description:		This demo showcase on-device one-class SVM ML training on FRDM-MCXN947 to detect abnormal vibrations with 2 tiny motors, one is balanced and the other one is unbalanced. This demo use FXLS8974CF 3-axis accelerometer to detect the normal vibration pattern to train one-class SVM mode.
+Release Location:	https://github.com/nxp-appcodehub/dm-mcxn-portable-anomaly-detect
+Origin:				NXP (BSD-3-Clause)
+					NXP (NXP Proprietary)
+					ARM CMSIS (Apache-2.0)  - https://github.com/ARM-software/CMSIS_5/releases/tag/5.6.0
+					littlevgl (MIT License) - https://github.com/lvgl/lvgl
+					freertos  (MIT License) - https://github.com/FreeRTOS/FreeRTOS-Kernel
+					libsvm (BSD-3-Clause)   - https://github.com/cjlin1/libsvm
+					Montserrat Medium font (OFL-1.1) - https://github.com/JulietaUla/Montserrat
