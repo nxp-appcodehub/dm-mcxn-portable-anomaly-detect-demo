@@ -88,7 +88,8 @@ For this demo you will need the next hardware.
 ![Alt text](images/build.png)<br><br>
 - Right click on project and select build to start building the project.
 
-#### Develop in VS code
+### 3.5 Develop in VS code
+- Download and install Visual Studio Code v1.95.2 or latest version.
 
 - In VS code, select the 'MCUXpresso For VScode' plugin, and click 'Application Code Hub' in the QUICKSTART PANEL. 
 
